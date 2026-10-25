@@ -3,6 +3,7 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-JavaScript-34A853?logo=googleearth&logoColor=white)](https://code.earthengine.google.com)
 [![Level](https://img.shields.io/badge/level-beginner%20to%20intermediate-4fd1c5)](#lessons)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23646381.svg)](https://doi.org/10.5281/zenodo.23646381)
 
 Six short, fully commented **Google Earth Engine** lessons for hydrology and water-resources students, from loading your first satellite image to **Random Forest downscaling** and **Mann-Kendall trend tests**. Every script runs as it is: no uploads and no private assets.
 
@@ -35,6 +36,12 @@ The study areas are Lake Urmia, Gorgan Bay on the Caspian Sea, and Iran. To use 
 - Keep dates (`system:time_start`) when you transform images, so later filters still work.
 - No `getInfo()` calls: everything stays on the server, so scripts stay fast.
 - Collection 2 Landsat scale factors and the current MODIS v061 products.
+
+## Cite this tool
+
+Abbasalizadehrezaei, P. (2026). *Earth Engine for Water Resources: a Short Course* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23646381
+
+GitHub also offers a ready-made citation under **Cite this repository** (from [CITATION.cff](CITATION.cff)).
 
 ## Author
 
