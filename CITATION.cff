@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Earth Engine for Water Resources: a Short Course"
+abstract: "Six commented Google Earth Engine lessons for hydrology students: data import, water frequency, multi-temporal water maps, Random Forest soil-moisture downscaling, water-area time series and rainfall trend tests."
+type: software
+authors:
+  - family-names: Abbasalizadehrezaei
+    given-names: Parisa
+    orcid: "https://orcid.org/0009-0009-5708-7673"
+repository-code: "https://github.com/RisaRezaei/gee-water-resources-course"
+url: "https://risarezaei.github.io/tool.html?r=gee-water-resources-course"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-25"
